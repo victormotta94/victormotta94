@@ -1,7 +1,7 @@
 ## Victor Motta Del Bianco - Desenvolvedor Android | Kotlin
 
 - 👨‍💻 Desenvolvimento de aplicativos nativos Android (Kotlin);
-- 🏯 Arquiteturas MVVM & Clean Architeture
+- 🏯 Arquiteturas MVVM & Clean Architecture
 - 🛠 Ferramentas de versionamento de código e desenvolvimento colaborativo (Git e Github)
 - 💻 Consumo de APIs
 - 🌱 Noções básicas de HTML, CSS e Javascript
